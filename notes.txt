@@ -1,0 +1,6 @@
+tested basic animation ideas (you can configure search highlighting, you can sleep in a macro)
+downloaded bad apple and extracted frames and got dimension
+tried to figure out how to map them onto vim - how big is the vim cursor
+turns out vim search has col/row support!
+we need to decompose image into rects
+https://stackoverflow.com/questions/4304750/how-can-i-reduce-a-grid-of-equal-sized-squares-to-a-minimum-set-of-rectangles

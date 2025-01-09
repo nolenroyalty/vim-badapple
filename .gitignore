@@ -172,3 +172,7 @@ cython_debug/
 
 *.swp
 frames
+*.sw*
+
+*search-queries*.txt
+*frames-list.txt*
